@@ -1,10 +1,10 @@
 import { useState } from "react";
 import "./App.css";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 import Features from "./components/Features";
-import Hero from "./components/hero";
-import TestemonialSection from "./components/testemonialsection";
-import Pricing from "./components/pricing";
+import Hero from "./components/Hero";
+import TestemonialSection from "./components/Testemonialsection";
+import Pricing from "./components/Pricing";
 import Footer from "./components/Footer";
 
 function App() {
