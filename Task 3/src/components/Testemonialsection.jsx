@@ -1,5 +1,5 @@
 import testemonials from "../data/testemonial";
-import Testemonialcard from "./testemonialcard";
+import Testemonialcard from "./Testemonialcard";
 
 export default function TestemonialSection() {
   return (
@@ -24,3 +24,4 @@ export default function TestemonialSection() {
     </section>
   );
 }
+
